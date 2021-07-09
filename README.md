@@ -12,7 +12,7 @@ Slides and links on the training Angular, PinkRoccade, summer 2021
 
 ## Examples
 Content projection with default values. A bit cumbersome, but it works.
-```javascript
+```html
 <button class="my-button">
     <ng-content select="img"></ng-content>
     <!-- wrap the ng-content block with a local default template variable -->
@@ -23,4 +23,17 @@ Content projection with default values. A bit cumbersome, but it works.
         Button text here
     </ng-container>
 </button>
+```
+
+You'll call/use the button as follows:
+```html
+        <!--        first instance, WITH text-->
+        <app-my-button>
+            <img src="assets/login.png" alt="">
+            Login
+        </app-my-button>
+        <!--        Second instance, WITHOUT text (so showing the default value)-->
+        <app-my-button>
+            <img src="assets/save.png" alt="">
+        </app-my-button>
 ```
