@@ -9,6 +9,7 @@ Slides and links on the training Angular, PinkRoccade, summer 2021
 - JavaScript Design Patterns, by Addy Osmani: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 - Specific Angular Design Patterns book: https://www.amazon.co.uk/Angular-Design-Patterns-Implement-patterns/dp/1786461722/
 - Java Design Patterns: https://refactoring.guru/design-patterns/java
+- Is NPM wel veilig? : https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5
 
 ## Examples
 Content projection with default values. A bit cumbersome, but it works.
