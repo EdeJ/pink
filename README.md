@@ -12,7 +12,7 @@ Slides and links on the training Angular, PinkRoccade, summer 2021
 
 ## Examples
 Content projection with default values. A bit cumbersome, but it works.
-```
+```javascript
 <button class="my-button">
     <ng-content select="img"></ng-content>
     <!-- wrap the ng-content block with a local default template variable -->
