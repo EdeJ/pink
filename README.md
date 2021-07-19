@@ -1,16 +1,16 @@
 # PinkRoccade
 Slides and links on the training Angular, PinkRoccade, summer 2021
 
-# Links
+# Training Links
 - `Angular Fundamentals` repo met voorbeeldcode: https://github.com/PeterKassenaar/voorbeeldenAngular2
 - `Angular Advanced` repo met voorbeeldcode: https://github.com/PeterKassenaar/AngularAdvanced
 
-# Links Advanced
+# Advanced - Links
 - Angular Change Detection explained https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
 - Pitfalls bij Change Detection: https://blog.angular-university.io/onpush-change-detection-how-it-works/
 - Upgrading an AngularJS Project: https://medium.com/ngconf/upgrading-an-angularjs-project-to-angular-d93f18323b4d
 
-# Extra links
+# Extended - links
 - JavaScript Design Patterns, by Addy Osmani: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 - Specific Angular Design Patterns book: https://www.amazon.co.uk/Angular-Design-Patterns-Implement-patterns/dp/1786461722/
 - Java Design Patterns: https://refactoring.guru/design-patterns/java
