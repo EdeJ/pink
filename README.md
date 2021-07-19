@@ -5,11 +5,15 @@ Slides and links on the training Angular, PinkRoccade, summer 2021
 - `Angular Fundamentals` repo met voorbeeldcode: https://github.com/PeterKassenaar/voorbeeldenAngular2
 - `Angular Advanced` repo met voorbeeldcode: https://github.com/PeterKassenaar/AngularAdvanced
 
+# Links Advanced
+- Angular Change Detection explained https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
+
 # Extra links
 - JavaScript Design Patterns, by Addy Osmani: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 - Specific Angular Design Patterns book: https://www.amazon.co.uk/Angular-Design-Patterns-Implement-patterns/dp/1786461722/
 - Java Design Patterns: https://refactoring.guru/design-patterns/java
 - Is NPM wel veilig? : https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5
+
 
 ## Examples
 Content projection with default values. A bit cumbersome, but it works.
