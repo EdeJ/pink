@@ -9,6 +9,7 @@ Slides and links on the training Angular, PinkRoccade, summer 2021
 - Angular Change Detection explained https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
 - Pitfalls bij Change Detection: https://blog.angular-university.io/onpush-change-detection-how-it-works/
 - Upgrading an AngularJS Project: https://medium.com/ngconf/upgrading-an-angularjs-project-to-angular-d93f18323b4d
+- JavasScript `impory` statement in de browser, voor lazy loading: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
 
 # Extended - links
 - JavaScript Design Patterns, by Addy Osmani: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
